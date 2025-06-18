@@ -22,7 +22,7 @@ To use this template:
 ```
 /project-root
 │
-├── index.html        # Main HTML email template
+├── email-template.html        # Main HTML email template
 ├── LICENSE           # MIT License file
 └── README.md         # This file
 ```
