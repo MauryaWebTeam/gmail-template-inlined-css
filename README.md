@@ -25,6 +25,8 @@ To use this template:
 ├── email-template.html        # Main HTML email template
 ├── LICENSE           # MIT License file
 └── README.md         # This file
+├── email-template desktop view.png           # Template preview image for desktop version
+├── email-template mobile view.png           # Template preview image for mobile version
 ```
 
 ## 🛠 Technologies Used
